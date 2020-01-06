@@ -1,0 +1,8 @@
+Package: com.exodia9610.danners
+Name: Danners
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Dark notifications for iOS 12. All devices!
+Maintainer: exodia9610 <njl02@outlook.com>
+Author: exodia9610 <njl02@outlook.com>
+Section: Tweaks
